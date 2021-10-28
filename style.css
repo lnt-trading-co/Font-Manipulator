@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/2461993.jpg");
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+}
+.heading{
+    font-size: 22px;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+color: green;
+width: 100%;
+padding: 10px;
+}
